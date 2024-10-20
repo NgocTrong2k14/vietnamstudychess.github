@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trang Chủ Của Tôi</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4; /* Màu nền */
+        }
+        header {
+            background-color: #0056b3; /* Màu xanh nước biển đậm */
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        nav {
+            margin-top: 10px;
+        }
+        nav a {
+            color: white;
+            text-decoration: none;
+            margin: 0 15px;
+            padding: 5px 10px;
+        }
+        nav a:hover {
+            background-color: #004494; /* Màu xanh nước biển tối hơn khi hover */
+            border-radius: 5px;
+        }
+        main {
+            padding: 20px;
+        }
+        .product {
+            background-color: white;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            padding: 15px;
+            margin: 10px 0;
+        }
+        .footer {
+            background-color: #007BFF; /* Màu xanh biển */
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+            position: relative;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Chào Mừng Đến Với Trang Chủ Của Tôi!</h1>
+    <nav>
+        <a href="#">Các bài đăng</a>
+        <a href="#">Vlogs</a>
+        <a href="#">Truyền thông</a>
+        <a href="#">Danh sách/Tài liệu</a>
+        <a href="#">Ban lãnh đạo</a>
+        <a href="#">Liên hệ & Ủng hộ</a>
+    </nav>
+</header>
+
+</body>
+</html>
