@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trang Chủ Của Tôi</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            background-color: #0056b3; /* Màu xanh nước biển đậm */
+            height: 100vh; /* Đảm bảo chiếm toàn bộ chiều cao */
+        }
+    </style>
+</head>
+<body>
+
+</body>
+</html>
